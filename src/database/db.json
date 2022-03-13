@@ -1,0 +1,25 @@
+{
+  "Patients": [
+    {
+      "user_name": "snehal",
+      "mobile_no": "3463",
+      "email": "dhgshgf",
+      "password": "wer",
+      "id": 1
+    },
+    {
+      "user_name": "prachi",
+      "mobile_no": "346",
+      "email": "dbfhdf",
+      "password": "rty",
+      "id": 2
+    },
+    {
+      "user_name": "prachi",
+      "mobile_no": "242",
+      "email": "vcxx",
+      "password": "rty",
+      "id": 3
+    }
+  ]
+}
